@@ -1,0 +1,1 @@
+[] execVM "AI_Missions\fn_initMissions.sqf";

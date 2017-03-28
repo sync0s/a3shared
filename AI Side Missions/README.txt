@@ -1,0 +1,1 @@
+Spawns AI in locations on the map allowing for players to attach the AI for loot. Locations, mission types, and loot are customizable via AI_Missions\initMission.sqf
