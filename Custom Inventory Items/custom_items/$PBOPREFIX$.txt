@@ -1,0 +1,5 @@
+///'maui_items.pbo' from Mikero's dos tools, dll version 5.66///
+prefix=maui_items
+Pbo Type is: Arma Addon
+Sha: '47B1330612798FB7A88620E5F923D877164726BD'
+//////</HEADER>//////
